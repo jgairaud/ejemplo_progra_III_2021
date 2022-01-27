@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[]) {
-  printf("This is main!\n");
-  return 0;
+   printf("Mi propio main, conflicto resuelto\n");
+   return 0;
 }
-
